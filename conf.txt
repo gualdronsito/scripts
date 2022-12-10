@@ -1,0 +1,3 @@
+Host foo
+    Hostname 192.168.0.3
+    User "Andres Gualdron"
