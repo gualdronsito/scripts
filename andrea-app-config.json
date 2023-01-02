@@ -8,9 +8,9 @@
         },
         "engine": {
             "cookie": "stripchat_com_firstVisit=2022-09-05T16%3A53%3A03Z; ABTest_ab_25_tokens_instead_20_key=A; ABTest_start_private_with_price_key=B; __cflb=02DiuFntVtrkFMde1djri9MxP4ChwbUcoBaELus6R2cX6; guestWatchHistoryIds=; guestFavoriteIds=; alreadyVisited=1; sCashGuestId=51ee2044217491f31ef0d6f59601eada563d79ab3eb37ba34d288815b3b15469; baseAmpl=%7B%22up%22%3A%7B%22navigationParams%22%3A%7B%22limit%22%3A60%2C%22offset%22%3A0%7D%2C%22page%22%3A%22other%22%7D%7D; isVisitorsAgreementAccepted=1; stripchat_com_sessionRemember=1; userWatchHistoryIds=",
-            "id": "60326705",
-            "name": "Backbone_",
-            "sessionId": "4bab003d64f0a7a030ca0ce1023ef490b965ea5b917bba7a07f67f157d48"
+            "id": "60326833",
+            "name": "Admiral__",
+            "sessionId": "57f5458dd223170ce66a352a6722a0d0fc9e7c8a9d7a2678f52e44302f45"
         }
     },
     "endpoints": {
