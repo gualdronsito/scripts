@@ -14,7 +14,7 @@
     "endpoints": {
         "websocket": "wss://comet.sc-apps.com/comet2?host=stripchat.com",
         "andreaApp": "https://9kam4wcsxl.execute-api.us-east-1.amazonaws.com/prod/send-friend-request",
-        "ngrok": "https://6ced-181-33-186-213.ngrok-free.app/api/sendRequestCurrentsTop"
+        "ngrok": "https://b589-179-32-184-253.ngrok-free.app/api/sendRequestCurrentsTop"
     },
     "dynamodb": {
         "tables": {
