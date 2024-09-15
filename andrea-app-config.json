@@ -14,7 +14,7 @@
     "endpoints": {
         "websocket": "wss://websocket.stripchat.com/connection/websocket",
         "andreaApp": "https://9kam4wcsxl.execute-api.us-east-1.amazonaws.com/prod/send-friend-request",
-        "ngrok": "https://4342-181-33-143-13.ngrok-free.app/api/sendRequestCurrentsTop"
+        "ngrok": "https://15c3-181-33-141-188.ngrok-free.app/api/sendRequestCurrentsTop"
     },
     "dynamodb": {
         "tables": {
